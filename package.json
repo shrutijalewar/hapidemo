@@ -1,0 +1,22 @@
+{
+  "name": "hapidemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrutijalewar/hapidemo.git"
+  },
+  "author": "shrutijalewar@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrutijalewar/hapidemo/issues"
+  },
+  "homepage": "https://github.com/shrutijalewar/hapidemo",
+  "dependencies": {
+    "hapi": "^7.5.2"
+  }
+}
